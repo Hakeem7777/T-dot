@@ -11,5 +11,5 @@ variable "ec2_instance_name" {
 
 variable "ec2_ami_id" {
   type        = string
-  description = "The AMI ID to use to launch the instance. NB: Theey change between regions."
+  description = "The AMI ID to use to launch the instance. NB: They change between regions."
 }
